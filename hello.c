@@ -1,6 +1,6 @@
 /**
  * Author: Alex Lindgren
- * Date: 2024/08/27
+ * Date: 2024/08/29
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-    printf("Hello my name is Alex!\n");
+    printf("My major is Computer Engineering\n");
+    printf("I really like fishing!\n");
 
     return 0;
 }
