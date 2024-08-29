@@ -2,7 +2,7 @@
  * Author: Alex Lindgren
  * Date: 2024/08/29
  *
- * A simple hello world program in C
+ * A simple Hello and what's your Major in C
  *
  */
 #include <stdlib.h>
